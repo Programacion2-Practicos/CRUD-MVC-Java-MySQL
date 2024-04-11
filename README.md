@@ -21,6 +21,8 @@ CRUD usando Java (JForm) con MVC y conectado a la base de datos (MySQL)
 
 ## Autores ✒️
 - **Marco Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
+- https://codigosdeprogramacion.com/2023/01/26/tutorial-crud-en-java-y-mysql/   (video)
+  
 
 ## Licencia 📄
 
